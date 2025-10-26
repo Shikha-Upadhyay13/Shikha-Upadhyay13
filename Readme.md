@@ -15,7 +15,7 @@ I'm an **AI enthusiast** and **full-stack developer** pursuing B.Tech in Artific
 
 ## 🌟 Who I Am
 
-AI Enthusiast | Java Developer | Machine Learning & Deep Learning | Story Teller | Content Creator
+AI Enthusiast | Java Developer | Machine Learning & Deep Learning | Content Creator
 
 ---
 
