@@ -27,7 +27,7 @@ Generative AI & LLM Developer | Full-Stack Developer | RAG Pipeline Engineer | A
 
 ## Tech Stack
 
-<p align="left">
+<p align="center">
 
   <!-- Core Skills -->
   <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-1E1E1E?style=for-the-badge&logo=thealgorithms&logoColor=6C63FF" height="35"/>
