@@ -48,7 +48,7 @@ Generative AI & LLM Developer | Full-Stack Developer | RAG Pipeline Engineer | A
   <img src="https://img.shields.io/badge/Transformers-1E1E1E?style=for-the-badge&logo=huggingface&logoColor=F59E0B" height="35"/>
   <img src="https://img.shields.io/badge/Machine_Learning-1E1E1E?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" height="35"/>
   <img src="https://img.shields.io/badge/Deep_Learning-1E1E1E?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" height="35"/>
-  <img src="https://img.shields.io/badge/Embedding_Models-1E1E1E?style=for-the-badge&logo=semanticweb&logoColor=8B5CF6" height="35"/>
+  
 
   <!-- Vector Databases -->
   <img src="https://img.shields.io/badge/FAISS-1E1E1E?style=for-the-badge&logo=meta&logoColor=059669" height="35"/>
