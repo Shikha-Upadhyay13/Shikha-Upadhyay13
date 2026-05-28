@@ -9,9 +9,7 @@ I'm an **AI enthusiast** and **full-stack developer** pursuing B.Tech in Artific
   <img src="https://img.shields.io/badge/LinkedIn-1E1E1E?style=for-the-badge&logo=linkedin&logoColor=0A66C2" height="35"/>
 </a>
 
-<a href="https://github.com/Shikha-Upadhyay13">
-  <img src="https://img.shields.io/badge/GitHub-1E1E1E?style=for-the-badge&logo=github&logoColor=white" height="35"/>
-</a>
+
 
 <img src="https://komarev.com/ghpvc/?username=Shikha-Upadhyay13&style=for-the-badge&color=6C63FF"/>
 
