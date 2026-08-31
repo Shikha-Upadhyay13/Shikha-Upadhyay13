@@ -78,8 +78,6 @@ Generative AI & LLM Developer | Full-Stack Developer | RAG Pipeline Engineer | A
   <img src="https://img.shields.io/badge/Excel-1E1E1E?style=for-the-badge&logo=microsoftexcel&logoColor=217346" height="35"/>
 
 </p>
-## 🔥 GitHub Streak
-
 <p align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Shikha-Upadhyay13&theme=radical&hide_border=true&border_radius=12&ring=6C63FF&fire=6C63FF&date_format=j%20M%5BY%5D)
