@@ -79,6 +79,9 @@ Generative AI & LLM Developer | Full-Stack Developer | RAG Pipeline Engineer | A
 
 </p>
 
+<br/>
+<br/>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Shikha-Upadhyay13&theme=radical&hide_border=true&border_radius=12&ring=6C63FF&fire=6C63FF&date_format=j%20M%5BY%5D" alt="GitHub Streak"/>
 </p>
