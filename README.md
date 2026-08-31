@@ -78,10 +78,10 @@ Generative AI & LLM Developer | Full-Stack Developer | RAG Pipeline Engineer | A
   <img src="https://img.shields.io/badge/Excel-1E1E1E?style=for-the-badge&logo=microsoftexcel&logoColor=217346" height="35"/>
 
 </p>
-## 🔥 GitHub Stats
+## 🔥 GitHub Streak
 
-![Shikha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shikha-Upadhyay13&show_icons=true&count_private=true&hide_title=true&theme=radical)
+<p align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Shikha-Upadhyay13&theme=radical&hide_border=true&border_radius=12&ring=6C63FF&fire=6C63FF&date_format=j%20M%5BY%5D)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shikha-Upadhyay13&layout=compact&hide=html,css&theme=radical)
+</p>
