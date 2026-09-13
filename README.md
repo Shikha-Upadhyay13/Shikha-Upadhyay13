@@ -15,12 +15,6 @@ I'm an **AI enthusiast** and **full-stack developer** pursuing B.Tech in Artific
 
 ---
 
-## Who I Am
-
-Generative AI & LLM Developer | Full-Stack Developer | RAG Pipeline Engineer | AI Automation Enthusiast
-
----
-
 ## Tech Stack
 
 <p align="justified">
